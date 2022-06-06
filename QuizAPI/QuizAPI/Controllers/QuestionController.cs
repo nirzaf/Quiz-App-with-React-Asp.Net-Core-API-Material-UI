@@ -28,9 +28,9 @@ namespace QuizAPI.Controllers
             var random5Qns = await (_context.Questions
                  .Select(x => new
                  {
-                     QnId = x.QnId,
-                     QnInWords = x.QnInWords,
-                     ImageName = x.ImageName,
+                     x.QnId,
+                     x.QnInWords,
+                     x.ImageName,
                      Options = new string[] { x.Option1, x.Option2, x.Option3, x.Option4 }
                  })
                  .OrderBy(y => Guid.NewGuid())
@@ -95,11 +95,11 @@ namespace QuizAPI.Controllers
                 .Where(x => qnIds.Contains(x.QnId))
                 .Select(y => new
                 {
-                    QnId = y.QnId,
-                    QnInWords = y.QnInWords,
-                    ImageName = y.ImageName,
-                    Options = new string[] { y.Option1, y.Option2, y.Option3, y.Option4 },
-                    Answer = y.Answer
+                    y.QnId,
+                    y.QnInWords,
+                    y.ImageName,
+                    Options = new[] { y.Option1, y.Option2, y.Option3, y.Option4 },
+                    y.Answer
                 })).ToListAsync();
             return Ok(answers);
         }
