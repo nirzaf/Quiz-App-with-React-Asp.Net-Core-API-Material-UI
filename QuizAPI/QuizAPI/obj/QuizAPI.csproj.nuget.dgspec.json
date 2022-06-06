@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
+    "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
   },
   "projects": {
-    "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
+    "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "projectUniqueName": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
         "projectName": "QuizAPI",
-        "projectPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
-        "packagesPath": "C:\\Users\\Shamseer\\.nuget\\packages\\",
-        "outputPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\obj\\",
+        "projectPath": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "packagesPath": "C:\\Users\\Fazrin\\.nuget\\packages\\",
+        "outputPath": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamseer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fazrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

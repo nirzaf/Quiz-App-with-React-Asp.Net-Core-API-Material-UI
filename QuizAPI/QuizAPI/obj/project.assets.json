@@ -3947,7 +3947,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -7163,7 +7163,7 @@
       ]
     },
     "System.Net.Http/4.3.0": {
-      "sha512": "Z1UfSF6dlpCdZdxh6LeoGlYH+q6ptG/iiIWgUUeKhE3DbQACmZkU7Sz2nOX0qdHjz72MOdYRbkSJ5Qwl6sZgvg==",
+      "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -9580,23 +9580,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shamseer\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Fazrin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+      "projectUniqueName": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
       "projectName": "QuizAPI",
-      "projectPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
-      "packagesPath": "C:\\Users\\Shamseer\\.nuget\\packages\\",
-      "outputPath": "C:\\CodAffection Yt\\React Tutorial\\Quiz App with React and  Net Core API\\Project\\QuizAPI\\QuizAPI\\obj\\",
+      "projectPath": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+      "packagesPath": "C:\\Users\\Fazrin\\.nuget\\packages\\",
+      "outputPath": "E:\\Repos\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Shamseer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fazrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9663,7 +9659,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
