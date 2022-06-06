@@ -1,9 +1,4 @@
 ﻿#nullable disable
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using QuizAPI.Models;
@@ -45,7 +40,7 @@ namespace QuizAPI.Controllers
         // PUT: api/Participant/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutParticipant(int id, ParticipantRestult _participantResult)
+        public async Task<IActionResult> PutParticipant(int id, ParticipantResult _participantResult)
         {
             if (id != _participantResult.ParticipantId)
             {

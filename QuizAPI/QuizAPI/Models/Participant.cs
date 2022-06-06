@@ -19,7 +19,7 @@ namespace QuizAPI.Models
         public int TimeTaken { get; set; }
     }
 
-    public class ParticipantRestult
+    public class ParticipantResult
     {
         public int ParticipantId { get; set; }
 
